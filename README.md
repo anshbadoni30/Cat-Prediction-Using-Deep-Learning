@@ -12,20 +12,20 @@ By the end of this project, the goal is to:
 - Evaluate the performance of the deep network compared to simpler models like logistic regression.
 
 ## Table of Contents
-- [Packages](#packages)
-- [Load and Process the Dataset](#load-and-process-the-dataset)
-- [Model Architecture](#model-architecture)
-  - [2-layer Neural Network](#2-layer-neural-network)
-  - [L-layer Deep Neural Network](#l-layer-deep-neural-network)
-  - [General Methodology](#general-methodology)
-- [Two-layer Neural Network](#two-layer-neural-network)
-  - [Exercise 1: two_layer_model](#exercise-1-two_layer_model)
-  - [Train the Model](#train-the-model)
-- [L-layer Neural Network](#l-layer-neural-network)
-  - [Exercise 2: L_layer_model](#exercise-2-l_layer_model)
-  - [Train the Model](#train-the-model)
-- [Results Analysis](#results-analysis)
-- [Test with Your Own Image (Optional)](#test-with-your-own-image-optional)
+- Packages
+- Load and Process the Dataset
+- Model Architecture
+  - 2-layer Neural Network
+  - L-layer Deep Neural Network
+  - General Methodology
+- Two-layer Neural Network
+  - Exercise 1: two_layer_model
+  - Train the Model
+- L-layer Neural Network
+  - Exercise 2: L_layer_model
+  - Train the Model
+- Results Analysis
+- Test with Your Own Image 
 
 ## Model Architecture
 
